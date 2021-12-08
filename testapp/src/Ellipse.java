@@ -4,8 +4,6 @@
  * and open the template in the editor.
  */
 package testapp;
-import org.junit.*;
-
 
 public class Ellipse implements Shape {
     
