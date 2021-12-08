@@ -5,7 +5,6 @@
  */
 package testapp;
 
-import org.junit.*;
 /**
  *
  * @author asteed
