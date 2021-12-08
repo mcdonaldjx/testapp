@@ -5,11 +5,6 @@
  */
 package testapp;
 
-import static org.junit.Assert.assertTrue;
-
-import org.junit.Test;
-import org.junit.jupiter.api.DisplayName;
-
 /**
  *
  * @author asteed
